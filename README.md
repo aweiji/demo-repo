@@ -5,4 +5,7 @@ Some description!
 ## Subheader
 
 Watch tutorial YouTube.
-kekw
+
+# Local Development
+
+1. Open index.html in your browser
